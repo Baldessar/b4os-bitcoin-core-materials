@@ -33,8 +33,6 @@ When you complete this exercise, submit your work as a PR in your fork of [`b4os
 
 ## Hints
 
-These hints are here to support you as you work through the exercise. It is your learning space, so adjust the difficulty to match where you are right now. If you already feel confident with the topic, go ahead and skip the hints and experiment on your own. And if you get stuck, there is absolutely no shame in taking a look :)
-
 ### Step 1 - Create an invalid transaction
 
 <details>
