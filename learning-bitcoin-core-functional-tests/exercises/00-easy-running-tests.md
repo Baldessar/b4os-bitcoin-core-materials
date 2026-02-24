@@ -173,7 +173,7 @@ cmake -B build # or equivalent, if you want to compile with special flags etc
 5. Run the test with:
 
 ```bash
-build/test/functional/test_runner.py feature_hello_world.py
+build/test/functional/feature_hello_world.py
 ```
 
 If this runs successfully, your environment and test workflow are ready for the next exercises :)
